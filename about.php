@@ -20,14 +20,14 @@
 <div class="container-fluid bg-light overflow-hidden px-lg-0">
     <div class="container about px-lg-0">
         <div class="row g-0 mx-lg-0">
-            <div class="col-lg-5 ps-lg-0 pt-5" style="min-height: 400px;">
+            <div class="col-lg-5 ps-lg-0 pt-5 about">
                 <div class="position-relative  ">
                     <img class="position-absolute img-fluid px-3" src="img/about.jpg" style="object-fit: cover;" alt="">
                 </div>
             </div>
             <div class="col-lg-7 pt-3 about-text wow fadeIn" data-wow-delay="0.5s">
                 <div class=" pe-lg-0">
-                    <div class="section-title text-start text-center">
+                    <div class="section-title text-center">
                         <h1 class="display-5 mb-4 ">About Us</h1>
                     </div>
                     <p class="mb-4 pb-2" align="justify">We are Jharkhand based start-up, established in June 2018(MSME’s Reg.)

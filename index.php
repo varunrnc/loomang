@@ -6,11 +6,13 @@
 <div class="container-fluid p-0 pb-2">
     <div class="owl-carousel header-carousel position-relative">
         <div class="owl-carousel-item position-relative">
-            <img class="img-fluid" src="img/product/slider-4.jpg" alt="slider_one">
+            <img class="img-fluid" src="img/slider/slider-4.jpg" alt="slider_one" id="slider-4">
+            <img class="img-fluid" src="img/slider/slider-1.jpg" alt="slider_one" id="slider-1">
 
         </div>
         <div class="owl-carousel-item position-relative">
-            <img class="img-fluid" src="img/product/slider-3.jpg" alt="slider_two">
+            <img class="img-fluid" src="img/slider/slider-3.jpg" alt="slider_two" id="slider-3">
+            <img class="img-fluid" src="img/slider/slider-2.jpg" alt="slider_two" id="slider-2">
 
         </div>
 
@@ -20,9 +22,9 @@
 <!-- Handdown start -->
 <div class="container-fluid p-0 pb-2" style="background-color:#ebebeb ;">
     <div class="section-title text-center py-3" style="background-color:white;">
-        <h2 class=" mb-2">HANDWOVEN & HANDCRAFTED PRODUCTS</h2>
-        <h5>Built on the Principles of</h5>
-        <h5>Equity | Transparency | Social Justice | Environmental Concern</h5>
+        <h5 class=" mb-2">HANDWOVEN & HANDCRAFTED PRODUCTS</h5>
+        <p class="mb-1"> <b>Built on the Principles of</b> </p>
+        <p>Equity | Transparency | Social Justice | Environmental Concern</p>
     </div>
     <div class="container py-3">
         <div class="row g-4 justify-content-center">
@@ -587,7 +589,7 @@
             <div class="testimonial-item text-center">
                 <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial/2.jfif" style="width: 90px; height: 90px;">
                 <div class="testimonial-text text-center p-4">
-                    <p>Love the packaging. The quality is also extremely great. Thankyou for bringing smiles. Thankyou for the freebie too</p>
+                    <p>Love the packaging. The quality is also extremely great. Thankyou for bringing smiles. Thankyou </p>
                     <h5 class="mb-1">Jahnvi</h5>
                     <span class="fst-italic">Student</span>
                 </div>
@@ -595,7 +597,7 @@
             <div class="testimonial-item text-center">
                 <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial/3.jpg" style="width: 90px; height: 90px;">
                 <div class="testimonial-text text-center p-4">
-                    <p>Thanks craft gully for the beautiful products, good quality and budget friendly. Recieved gifts with my each order.</p>
+                    <p>Thanks Loomang Craft for the beautiful products, good quality and budget friendly. Recieved gifts with my each order.</p>
                     <h5 class="mb-1">Mohit Chauhan</h5>
                     <span class="fst-italic">Doctor</span>
                 </div>

@@ -61,7 +61,7 @@
                     <small>8210196727</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
-                    <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-sm-square bg-white text-primary me-1" href="https://www.facebook.com/loomangcraft02/"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-sm-square bg-white text-primary me-1" href=""><i class="fab fa-linkedin-in"></i></a>
                     <a class="btn btn-sm-square bg-white text-primary me-0" href=""><i class="fab fa-instagram"></i></a>
@@ -105,7 +105,7 @@
 
                     </div>
                 </div>
-                <a href="../project.php" class="nav-item nav-link">Book Now</a>
+                <a href="../enquiry.php" class="nav-item nav-link">Enquiry Now</a>
 
                 <a href="../contact.php" class="nav-item nav-link">Contact Us</a>
             </div>
