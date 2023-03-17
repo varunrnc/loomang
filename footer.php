@@ -27,10 +27,10 @@
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-light mb-4">Quick Links</h4>
                 <a class="btn btn-link" href="about.php">About Us</a>
-                <a class="btn btn-link" href="contact.php">Contact Us</a>
-                <a class="btn btn-link" href="service.php">Our Services</a>
                 <a class="btn btn-link" href="">Terms & Condition</a>
+                <a class="btn btn-link" href="service.php">Our Services</a>
                 <a class="btn btn-link" href="">Support</a>
+                <a class="btn btn-link" href="contact.php">Contact Us</a>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-light mb-4">Newsletter</h4>
