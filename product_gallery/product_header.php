@@ -86,7 +86,7 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="../index.php" class="nav-item nav-link active">Home</a>
                 <a href="../about.php" class="nav-item nav-link">About Us</a>
-                <a href="../vission.php" class="nav-item nav-link">Vission</a>
+                <a href="../vision.php" class="nav-item nav-link">Vision</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Product Gallery</a>
                     <div class="dropdown-menu fade-up m-0">
