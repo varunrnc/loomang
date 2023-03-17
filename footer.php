@@ -8,7 +8,7 @@
                 </p>
                 <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 8210196727
                 </p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                <p class="mb-2"><i class="fa fa-envelope me-3"></i>loomangcraft@gmail.com</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -17,21 +17,20 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-light mb-4">Services</h4>
-                <a class="btn btn-link" href="">Handloom</a>
-                <a class="btn btn-link" href="">Furniture Remodeling</a>
-                <a class="btn btn-link" href="">Wooden Floor</a>
-                <a class="btn btn-link" href="">Wooden Furniture</a>
-                <a class="btn btn-link" href="">Handicraft</a>
+                <h4 class="text-light mb-4">Quick Links</h4>
+                <a class="btn btn-link" href="index.php">Home</a>
+                <a class="btn btn-link" href="about.php">About Us</a>
+                <a class="btn btn-link" href="vission.php">Vission</a>
+                <a class="btn btn-link" href="contact.php">Contact Us</a>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-light mb-4">Quick Links</h4>
-                <a class="btn btn-link" href="about.php">About Us</a>
-                <a class="btn btn-link" href="contact.php">Contact Us</a>
-                <a class="btn btn-link" href="service.php">Our Services</a>
-                <a class="btn btn-link" href="">Terms & Condition</a>
-                <a class="btn btn-link" href="">Support</a>
+                <h4 class="text-light mb-4">Product Gallery</h4>
+                <a class="btn btn-link" href="">Stole</a>
+                <a class="btn btn-link" href="">Men Tie</a>
+                <a class="btn btn-link" href="">Paintings</a>
+                <a class="btn btn-link" href="">Video</a>
             </div>
+
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-light mb-4">Newsletter</h4>
                 <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
