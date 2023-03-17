@@ -180,6 +180,12 @@ h1 {
 
 
 
+.video-wrapper {
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+}
+
 .header-carousel .owl-nav {
     position: absolute;
     width: 200px;
