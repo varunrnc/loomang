@@ -25,10 +25,10 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-light mb-4">Product Gallery</h4>
-                <a class="btn btn-link" href="">Stole</a>
-                <a class="btn btn-link" href="">Men Tie</a>
-                <a class="btn btn-link" href="">Paintings</a>
-                <a class="btn btn-link" href="">Video</a>
+                <a class="btn btn-link" href="product_gallery/stole.php">Stole</a>
+                <a class="btn btn-link" href="product_gallery/men_tie.php">Men Tie</a>
+                <a class="btn btn-link" href="product_gallery/paintings.php">Paintings</a>
+                <a class="btn btn-link" href="product_gallery/video_gallery.php">Video</a>
             </div>
 
             <div class="col-lg-3 col-md-6">
