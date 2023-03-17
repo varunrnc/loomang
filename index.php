@@ -317,7 +317,7 @@
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <h2 class="text-primary fw-medium mb-2 text-center">Saree</h2>
+                        <h4 class="text-primary fw-medium mb-2 text-center">Saree</h4>
                         <h5 class="lh-base mb-0"></a>
                     </div>
                 </div>
@@ -331,7 +331,7 @@
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <h2 class="text-primary fw-medium mb-2 text-center">Scarfs</h2>
+                        <h4 class="text-primary fw-medium mb-2 text-center">Scarfs</h4>
                     </div>
                 </div>
             </div>
@@ -344,7 +344,7 @@
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <h2 class="text-primary fw-medium mb-2 text-center">Stole</h2>
+                        <h4 class="text-primary fw-medium mb-2 text-center">Stole</h4>
                     </div>
                 </div>
             </div>
@@ -358,7 +358,7 @@
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <h2 class="text-primary fw-medium mb-2 text-center">Stone Craft</h2>
+                        <h4 class="text-primary fw-medium mb-2 text-center">Stone Craft</h4>
 
                     </div>
                 </div>
@@ -373,7 +373,7 @@
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <h2 class="text-primary fw-medium mb-2 text-center">Paintings</h2>
+                        <h4 class="text-primary fw-medium mb-2 text-center">Paintings</h4>
 
                     </div>
                 </div>
@@ -388,7 +388,7 @@
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <h2 class="text-primary fw-medium mb-2 text-center">Cane & Bamboo</h2>
+                        <h4 class="text-primary fw-medium mb-2 text-center">Cane & Bamboo</h4>
 
                     </div>
                 </div>
@@ -396,15 +396,45 @@
             <div class="col-lg-4 col-md-6 portfolio-item third wow fadeInUp" data-wow-delay="0.5s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-3.jpg" alt="">
+                        <img class="img-fluid w-100" src="img/prdcts/leaf.jpg" alt="">
                         <div class="portfolio-overlay">
-                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/prdcts/leaf.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <p class="text-primary fw-medium mb-2">Organic</p>
-                        <h5 class="lh-base mb-0">Handmade Soap / Herbal items / Gift Kit /Leaf Craft/Candles</a>
+                        <h4 class="text-primary fw-medium mb-2 text-center">Leaf Craft</h4>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item third wow fadeInUp" data-wow-delay="0.5s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/prdcts/soap.jpeg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/prdcts/soap.jpeg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <h4 class="text-primary fw-medium mb-2 text-center">Handmade Soap</h4>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item third wow fadeInUp" data-wow-delay="0.5s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/prdcts/herbal.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/prdcts/herbal.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <h4 class="text-primary fw-medium mb-2 text-center">Herbal items</h4>
+
                     </div>
                 </div>
             </div>
