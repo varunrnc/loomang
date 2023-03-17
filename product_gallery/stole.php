@@ -1,5 +1,5 @@
-<?php include_once('header.php'); ?>
+<?php include_once('product_header.php'); ?>
 
 
 
-<?php include_once('footer.php'); ?>
+<?php include_once('product_footer.php'); ?>
