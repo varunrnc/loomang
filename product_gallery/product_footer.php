@@ -20,7 +20,7 @@
                 <h4 class="text-light mb-4">Quick Links</h4>
                 <a class="btn btn-link" href="../index.php">Home</a>
                 <a class="btn btn-link" href="../about.php">About Us</a>
-                <a class="btn btn-link" href="../vission.php">Vission</a>
+                <a class="btn btn-link" href="../vision.php">Vision</a>
                 <a class="btn btn-link" href="../contact.php">Contact Us</a>
             </div>
             <div class="col-lg-3 col-md-6">
