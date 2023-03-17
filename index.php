@@ -18,64 +18,67 @@
 </div>
 <!-- Carousel End -->
 <!-- Handdown start -->
-<!-- <div class="container-fluid p-0 pb-2" style="background-color:#ebebeb ;">
-        <div class="section-title text-center py-3" style="background-color:white;">
-            <h2 class=" mb-2">HANDWOVEN & HANDCRAFTED PRODUCTS</h2>
-            <h5>Built on the Principles of</h5>
-            <h5>Equity | Transparency | Social Justice | Environmental Concern</h5>
-        </div>
-        <div class="container p-0 py-3">
-            <div class="row g-4 justify-content-center">
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item">
-                        <div class="overflow-hidden px-1">
-                            <img class="img-fluid" src="img/product/leather.jpg" alt="">
-                        </div>
-                        <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h5 class="mb-3">EMBOSSED LEATHER - SHANTINIKETAN</h5>
-                            <p align="justify">The art of leather embossing in Bengal goes back to 1940’s. The design is
-                                embossed on the
-                                vegetable tanned goat skin using a ball press machine. The pattern is then painted by
-                                hand. The leather is polished with a stone to make it soft and malleable. It is finally
-                                transformed into bags, purses, money boxes and much more.</p>
-                            <a class="fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
-                        </div>
+<div class="container-fluid p-0 pb-2" style="background-color:#ebebeb ;">
+    <div class="section-title text-center py-3" style="background-color:white;">
+        <h2 class=" mb-2">HANDWOVEN & HANDCRAFTED PRODUCTS</h2>
+        <h5>Built on the Principles of</h5>
+        <h5>Equity | Transparency | Social Justice | Environmental Concern</h5>
+    </div>
+    <div class="container py-3">
+        <div class="row g-4 justify-content-center">
+
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item">
+                    <div class="overflow-hidden px-1">
+                        <img class="img-fluid" src="img/product/leather.jpg" alt="">
+                    </div>
+                    <div class="p-4 text-center border border-5 border-light border-top-0">
+                        <h5 class="mb-3">EMBOSSED LEATHER - SHANTINIKETAN</h5>
+                        <p align="justify">The art of leather embossing in Bengal goes back to 1940’s. The design is
+                            embossed on the
+                            vegetable tanned goat skin using a ball press machine. The pattern is then painted by
+                            hand. The leather is polished with a stone to make it soft and malleable. It is finally
+                            transformed into bags, purses, money boxes and much more.</p>
+                        <a class="fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp " data-wow-delay="0.3s">
-                    <div class="service-item text-center">
-                        <div class="overflow-hidden  px-1">
-                            <img class="img-fluid " src="img/product/stationary.jpg" alt="">
-                        </div>
-                        <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h5 class="mb-3">STATIONARY</h5>
-                            <p align="justify">Wood carving & painting is an ancient craft of Varanasi. Pencils are
-                                bought from market
-                                and the covers are carved with animal/bird heads, in eucalyptus wood. Lead free paints
-                                are used and after painting a clear varnish/ touchwood is used for a smooth surface and
-                                to protect the paintings.</p>
-                            <a class="fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
-                        </div>
+            </div>
+            <div class="col-md-6 col-lg-4 wow fadeInUp " data-wow-delay="0.3s">
+                <div class="service-item text-center">
+                    <div class="overflow-hidden  px-1">
+                        <img class="img-fluid " src="img/product/stationary.jpg" alt="">
+                    </div>
+                    <div class="p-4 text-center border border-5 border-light border-top-0">
+                        <h5 class="mb-3">STATIONARY</h5>
+                        <p align="justify">Wood carving & painting is an ancient craft of Varanasi. Pencils are
+                            bought from market
+                            and the covers are carved with animal/bird heads, in eucalyptus wood. Lead free paints
+                            are used and after painting a clear varnish/ touchwood is used for a smooth surface and
+                            to protect the paintings.</p>
+                        <a class="fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item text-center">
-                        <div class="overflow-hidden px-1">
-                            <img class="img-fluid" src="img/product/coir.jpg" alt="">
-                        </div>
-                        <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h5 class="mb-3">COIR PRODUCTS</h5>
-                            <p align="justify">Coir is a natural, eco-friendly , tensile fibre extracted from the nuts
-                                of coconut palms.
-                                The women in the villages of Orissa use the coir to make toys, hangings, key rings,
-                                Christmas ornaments, gift boxes and much more.</p>
-                            <a class="fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
-                        </div>
+            </div>
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-item text-center">
+                    <div class="overflow-hidden px-1">
+                        <img class="img-fluid" src="img/product/coir.jpg" alt="">
+                    </div>
+                    <div class="p-4 text-center border border-5 border-light border-top-0">
+                        <h5 class="mb-3">COIR PRODUCTS</h5>
+                        <p align="justify">Coir is a natural, eco-friendly , tensile fibre extracted from the nuts
+                            of coconut palms.
+                            The women in the villages of Orissa use the coir to make toys, hangings, key rings,
+                            Christmas ornaments, gift boxes and much more.</p>
+                        <a class="fw-medium" href="">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
+</div>
+
+
 <!-- Handdown end -->
 
 
@@ -307,14 +310,30 @@
             <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-1.jpg" alt="">
+                        <img class="img-fluid w-100" src="img/prdcts/saree.jpg" alt="">
                         <div class="portfolio-overlay">
                             <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
-                        <p class="text-primary fw-medium mb-2">Handloom</p>
+                        <p class="text-primary fw-medium mb-2">Saree</p>
+                        <h5 class="lh-base mb-0">Saree / Scarfs / Stoles / Dupatta /Shawls/ Tie /Running Material
+                            / Stitched Apparel</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/prdcts/scarf.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <p class="text-primary fw-medium mb-2">Scarfs</p>
                         <h5 class="lh-base mb-0">Saree / Scarfs / Stoles / Dupatta /Shawls/ Tie /Running Material
                             / Stitched Apparel</a>
                     </div>
