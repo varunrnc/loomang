@@ -86,19 +86,28 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.php" class="nav-item nav-link active">Home</a>
                 <a href="about.php" class="nav-item nav-link">About Us</a>
-                <a href="service.php" class="nav-item nav-link">Service</a>
-                <a href="project.php" class="nav-item nav-link">Project</a>
+                <a href="vission.php" class="nav-item nav-link">Vission</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Product Gallery</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="feature.php" class="dropdown-item">Feature</a>
-                        <a href="quote.php" class="dropdown-item">Free Quote</a>
-                        <a href="team.php" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                        <a href="404.php" class="dropdown-item">404 Page</a>
+                        <a href="product_gallery/stole.php" class="dropdown-item">Stole</a>
+                        <a href="product_gallery/men_tie.php" class="dropdown-item">Men Tie</a>
+                        <a href="product_gallery/paintings.php" class="dropdown-item">Paintings</a>
+                        <a href="product_gallery/tribal_art.php" class="dropdown-item">Tribal Art</a>
+                        <a href="product_gallery/jute_product.php" class="dropdown-item">Jute Product</a>
+                        <a href="product_gallery/statue_frames.php" class="dropdown-item">Statue and Frames</a>
+                        <a href="product_gallery/handloom_leather.php" class="dropdown-item">Handloom & Leather</a>
+                        <a href="product_gallery/curtains_cushions.php" class="dropdown-item">Curtains and Cushions</a>
+                        <a href="product_gallery/necklace_tribal.php" class="dropdown-item">Necklace & Tribal Jewellery</a>
+                        <a href="shawls_yard.php" class="dropdown-item">Shawls, Yard & Santhal Gamcha</a>
+                        <a href="our_team.php" class="dropdown-item">Our Team</a>
+                        <a href="video_gallery.php" class="dropdown-item">Video Gallery</a>
+
                     </div>
                 </div>
-                <a href="contact.php" class="nav-item nav-link">Contact</a>
+                <a href="project.php" class="nav-item nav-link">Book Now</a>
+
+                <a href="contact.php" class="nav-item nav-link">Contact Us</a>
             </div>
         </div>
     </nav>
