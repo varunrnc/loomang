@@ -156,11 +156,11 @@ h1 {
 @media (max-width: 768px) {
     .header-carousel .owl-carousel-item {
         position: relative;
-        min-height: 500px;
+        /* min-height: 500px; */
     }
 
     .header-carousel .owl-carousel-item img {
-        position: absolute;
+        /* position: absolute; */
         width: 100%;
         height: 100%;
         object-fit: cover;
@@ -178,35 +178,7 @@ h1 {
     }
 }
 
-@media (max-width: 500px) {
-    .header-carousel .owl-carousel-item {
-        position: relative;
-        min-height: 500px;
-    }
 
-    .header-carousel .owl-carousel-item img {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-    .header-carousel .owl-carousel-item h5,
-    .header-carousel .owl-carousel-item p {
-        font-size: 14px !important;
-        font-weight: 400 !important;
-    }
-
-    .header-carousel .owl-carousel-item h1 {
-        font-size: 30px;
-        font-weight: 600;
-    }
-
-    .logo img {
-        width: 190px;
-    }
-
-}
 
 .header-carousel .owl-nav {
     position: absolute;
@@ -286,7 +258,45 @@ h1 {
     color: var(--light);
 }
 
+#slider-1 {
+    display: none;
+}
 
+#slider-2 {
+    display: none;
+}
+
+#slider-3 {
+    display: block;
+}
+
+#slider-4 {
+    display: block;
+}
+
+@media (max-width: 500px) {
+
+    .logo img {
+        width: 190px;
+    }
+
+    #slider-1 {
+        display: block;
+    }
+
+    #slider-2 {
+        display: block;
+    }
+
+    #slider-3 {
+        display: none;
+    }
+
+    #slider-4 {
+        display: none;
+    }
+
+}
 
 /*** Section Title ***/
 .section-title h1 {
@@ -299,15 +309,6 @@ h1 {
     padding-left: 0;
 }
 
-.section-title h1::before,
-.section-title h1::after {
-    /* position: absolute;
-    content: "";
-    width: 45px;
-    height: 5px;
-    bottom: 0;
-    background: var(--dark); */
-}
 
 .section-title h1::before {
     left: 0;
@@ -489,6 +490,17 @@ h1 {
 
 .team-item:hover .team-social {
     left: 0;
+}
+
+/******vision****/
+@media (max-width: 500px) {
+    .vision {
+        min-height: 210px;
+    }
+
+    .about {
+        min-height: 363px;
+    }
 }
 
 
