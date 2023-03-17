@@ -99,9 +99,9 @@
                         <a href="product_gallery/handloom_leather.php" class="dropdown-item">Handloom & Leather</a>
                         <a href="product_gallery/curtains_cushions.php" class="dropdown-item">Curtains and Cushions</a>
                         <a href="product_gallery/necklace_tribal.php" class="dropdown-item">Necklace & Tribal Jewellery</a>
-                        <a href="shawls_yard.php" class="dropdown-item">Shawls, Yard & Santhal Gamcha</a>
-                        <a href="our_team.php" class="dropdown-item">Our Team</a>
-                        <a href="video_gallery.php" class="dropdown-item">Video Gallery</a>
+                        <a href="product_gallery/shawls_yard.php" class="dropdown-item">Shawls, Yard & Santhal Gamcha</a>
+                        <a href="product_gallery/our_team.php" class="dropdown-item">Our Team</a>
+                        <a href="product_gallery/video_gallery.php" class="dropdown-item">Video Gallery</a>
 
                     </div>
                 </div>

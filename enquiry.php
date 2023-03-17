@@ -22,7 +22,7 @@
             <div class="col-lg-9 contact-text  wow fadeIn" data-wow-delay="0.5s">
                 <div class="p-lg-5 ps-lg-0">
                     <div class="section-title text-center">
-                        <h1 class="display-5 mb-4">Contact Us</h1>
+                        <h1 class="display-5 mb-4">Enquiry Now</h1>
                     </div>
                     <form action="#" method="POST">
                         <div class="row">

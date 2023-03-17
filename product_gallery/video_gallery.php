@@ -20,33 +20,20 @@
     <div class="container">
         <div class="section-title text-center">
             <h1 class="mb-3">Video Gallery</h1>
-            <h3></h3>
-            <p></p>
         </div>
-        <div class="row g-3">
-            <div class="col-lg-4 col-md-6">
-                <div class="video-wrapper">
-                    <iframe src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Floomangcraft02%2Fvideos%2F399597634905457%2F&show_text=false&width=560&t=0" width="660" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" class="img-fluid"></iframe>
-                </div>
-            </div>
+        <div class=" row">
+            <div class=" col-md-4  mt-3 text-center  ">
+                <iframe src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Floomangcraft02%2Fvideos%2F399597634905457%2F&show_text=false&width=560&t=0" width="360" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-            <div class="col-lg-4 col-md-6">
-                <div class="video-wrapper">
-                    <iframe src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Floomangcraft02%2Fvideos%2F399597634905457%2F&show_text=false&width=560&t=0" width="660" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" class="img-fluid"></iframe>
-                </div>
             </div>
-
-            <div class="col-lg-4 col-md-6">
-                <div class="video-wrapper">
-                    <iframe src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Floomangcraft02%2Fvideos%2F399597634905457%2F&show_text=false&width=560&t=0" width="660" height="408" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" class="img-fluid"></iframe>
-                </div>
+            <div class="col-md-4  mt-3 text-center  ">
+                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Floomangcraft02%2Fposts%2Fpfbid02nsz3vBVJ983BekpHJzdEz5VQuqVASpj57ThyuUGmJdkUHmhA6qvQ66sKtzTPvbiRl&show_text=false&width=500" width="360" height="436" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="col-md-4  mt-3 text-center  ">
+                <iframe src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Floomangcraft02%2Fvideos%2F844488449515663%2F&show_text=false&width=560&t=0" width="360" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
             </div>
         </div>
-
-
     </div>
-
-
 </div>
 </div>
 

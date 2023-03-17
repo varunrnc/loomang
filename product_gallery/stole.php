@@ -33,8 +33,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -48,8 +47,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -63,8 +61,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -78,8 +75,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -93,8 +89,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -108,8 +103,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -123,8 +117,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -138,8 +131,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -161,8 +153,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -176,8 +167,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -191,8 +181,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -206,8 +195,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -221,8 +209,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -245,8 +232,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -260,8 +246,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -275,8 +260,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -299,8 +283,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -314,8 +297,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -329,8 +311,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -344,8 +325,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -359,8 +339,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -383,8 +362,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -398,8 +376,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -413,8 +390,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -428,8 +404,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -443,8 +418,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -467,8 +441,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -482,8 +455,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -497,8 +469,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>
@@ -512,8 +483,7 @@
                         </div>
                     </div>
                     <div class="py-2 text-center">
-                        <button type="button" class="btn btn-primary w-100">Enquiry</button>
-                        <h5 class="lh-base mb-0"></a>
+                        <a href="../enquiry.php"><button type="button" class="btn btn-primary w-100">Enquiry</button></a>
                     </div>
                 </div>
             </div>

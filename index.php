@@ -134,9 +134,9 @@
 <!-- About Start -->
 <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
     <div class="container about px-lg-0">
-        <div class="row g-0 mx-lg-0">
-            <div class="col-lg-6 ps-lg-0" style="min-height: 400px;">
-                <div class="position-relative h-100">
+        <div class="row g-0 mx-lg-0 justify-content-center">
+            <div class="col-lg-4 ps-lg-0 about">
+                <div class="position-relative h-90">
                     <img class="position-absolute img-fluid px-3" src="img/about.jpg" style="object-fit: cover;" alt="about_us">
                 </div>
             </div>
@@ -145,7 +145,7 @@
                     <div class="section-title text-start">
                         <h1 class="display-5 mb-4">About Us</h1>
                     </div>
-                    <p class="mb-4 pb-2">We are Jharkhand based start-up, established in June 2018(MSME’s Reg.)
+                    <p class="mb-4 pb-2" align="justify">We are Jharkhand based start-up, established in June 2018(MSME’s Reg.)
                         working towards conservation, development and promotion of the indigenous and traditional
                         arts and crafts forms of the state, and thereby bring positive change in the lives of the
                         artisans and tribal community involved. The aim of Loomang Craft is to redefine the very
@@ -199,7 +199,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Stole</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/stole.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -211,7 +211,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Curtains</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/curtains_cushions.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -223,7 +223,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Curtain & Cusion</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/curtains_cushions.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -235,7 +235,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Statue & Frames</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/statue_frames.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -247,7 +247,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Men Tie</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/men_tie.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -259,7 +259,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Painting</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/paintings.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -271,7 +271,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Tribal Jewellery</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/necklace_tribal.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -283,7 +283,7 @@
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-2">Necklace</h4>
 
-                        <a class="fw-medium" href="">View More<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="product_gallery/necklace_tribal.php">View More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
