@@ -294,7 +294,7 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="section-title text-center">
-            <h1 class="display-5 mb-5">Our Category</h1>
+            <h1 class="display-5 mb-3">Our Category</h1>
         </div>
         <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
             <div class="col-12 text-center">
@@ -454,7 +454,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-1.jpg" alt="">
+                        <img class="img-fluid" src="img/Unicraft/team/35(1).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -470,7 +470,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-2.jpg" alt="">
+                        <img class="img-fluid" src="img/Unicraft/team/35(2).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -486,7 +486,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-3.jpg" alt="">
+                        <img class="img-fluid" src="img/Unicraft/team/35(3).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -502,7 +502,55 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-4.jpg" alt="">
+                        <img class="img-fluid" src="img/Unicraft/team/35(4).jpg" alt="">
+                        <div class="team-social">
+                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="text-center border border-5 border-light border-top-0 p-4">
+                        <h5 class="mb-0">Full Name</h5>
+                        <small>Designation</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="team-item">
+                    <div class="overflow-hidden position-relative">
+                        <img class="img-fluid" src="img/Unicraft/team/35(5).jpg" alt="">
+                        <div class="team-social">
+                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="text-center border border-5 border-light border-top-0 p-4">
+                        <h5 class="mb-0">Full Name</h5>
+                        <small>Designation</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="team-item">
+                    <div class="overflow-hidden position-relative">
+                        <img class="img-fluid" src="img/Unicraft/team/35(6).jpg" alt="">
+                        <div class="team-social">
+                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="text-center border border-5 border-light border-top-0 p-4">
+                        <h5 class="mb-0">Full Name</h5>
+                        <small>Designation</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="team-item">
+                    <div class="overflow-hidden position-relative">
+                        <img class="img-fluid" src="img/Unicraft/team/35(7).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -529,33 +577,27 @@
         </div>
         <div class="owl-carousel testimonial-carousel">
             <div class="testimonial-item text-center">
-                <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial-1.jpg" style="width: 90px; height: 90px;">
+                <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial/1.jpg" style="width: 90px; height: 90px;">
                 <div class="testimonial-text text-center p-4">
-                    <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                        ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                        clita.</p>
-                    <h5 class="mb-1">Client Name</h5>
-                    <span class="fst-italic">Profession</span>
+                    <p>Very happy I Got my parcel so early. I always prefer LoomangCraft products as these are of best quality. All products are of best quality & Among all these products I love perfect glaze most</p>
+                    <h5 class="mb-1">Rohit Verma</h5>
+                    <span class="fst-italic">Author</span>
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial-2.jpg" style="width: 90px; height: 90px;">
+                <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial/2.jfif" style="width: 90px; height: 90px;">
                 <div class="testimonial-text text-center p-4">
-                    <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                        ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                        clita.</p>
-                    <h5 class="mb-1">Client Name</h5>
-                    <span class="fst-italic">Profession</span>
+                    <p>Love the packaging. The quality is also extremely great. Thankyou for bringing smiles. Thankyou for the freebie too</p>
+                    <h5 class="mb-1">Jahnvi</h5>
+                    <span class="fst-italic">Student</span>
                 </div>
             </div>
             <div class="testimonial-item text-center">
-                <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial-3.jpg" style="width: 90px; height: 90px;">
+                <img class="img-fluid bg-light p-2 mx-auto mb-3" src="img/testimonial/3.jpg" style="width: 90px; height: 90px;">
                 <div class="testimonial-text text-center p-4">
-                    <p>Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna
-                        ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea
-                        clita.</p>
-                    <h5 class="mb-1">Client Name</h5>
-                    <span class="fst-italic">Profession</span>
+                    <p>Thanks craft gully for the beautiful products, good quality and budget friendly. Recieved gifts with my each order.</p>
+                    <h5 class="mb-1">Mohit Chauhan</h5>
+                    <span class="fst-italic">Doctor</span>
                 </div>
             </div>
         </div>
