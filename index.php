@@ -6,11 +6,11 @@
 <div class="container-fluid p-0 pb-2">
     <div class="owl-carousel header-carousel position-relative">
         <div class="owl-carousel-item position-relative">
-            <img class="img-fluid" src="img/product/slider-4.jpg" alt="">
+            <img class="img-fluid" src="img/product/slider-4.jpg" alt="slider_one">
 
         </div>
         <div class="owl-carousel-item position-relative">
-            <img class="img-fluid" src="img/product/slider-3.jpg" alt="">
+            <img class="img-fluid" src="img/product/slider-3.jpg" alt="slider_two">
 
         </div>
 
@@ -135,7 +135,7 @@
         <div class="row g-0 mx-lg-0">
             <div class="col-lg-6 ps-lg-0" style="min-height: 400px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute img-fluid px-3" src="img/about.jpg" style="object-fit: cover;" alt="">
+                    <img class="position-absolute img-fluid px-3" src="img/about.jpg" style="object-fit: cover;" alt="about_us">
                 </div>
             </div>
             <div class="col-lg-6 about-text  wow fadeIn" data-wow-delay="0.5s">
@@ -173,7 +173,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="" class="btn btn-primary py-3 px-5">Explore More</a>
+                    <a href="about.php" class="btn btn-primary py-3 px-5">Explore More</a>
                 </div>
             </div>
         </div>
