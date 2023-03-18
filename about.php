@@ -84,7 +84,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/Unicraft/team/35(1).jpg" alt="">
+                        <img class="img-fluid" src="img/unicraft/team/35(1).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -100,7 +100,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/Unicraft/team/35(2).jpg" alt="">
+                        <img class="img-fluid" src="img/unicraft/team/35(2).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -116,7 +116,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/Unicraft/team/35(3).jpg" alt="">
+                        <img class="img-fluid" src="img/unicraft/team/35(3).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -132,7 +132,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/Unicraft/team/35(4).jpg" alt="">
+                        <img class="img-fluid" src="img/unicraft/team/35(4).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -148,7 +148,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/Unicraft/team/35(5).jpg" alt="">
+                        <img class="img-fluid" src="img/unicraft/team/35(5).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -164,7 +164,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/Unicraft/team/35(6).jpg" alt="">
+                        <img class="img-fluid" src="img/unicraft/team/35(6).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
@@ -180,7 +180,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/Unicraft/team/35(7).jpg" alt="">
+                        <img class="img-fluid" src="img/unicraft/team/35(7).jpg" alt="">
                         <div class="team-social">
                             <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
