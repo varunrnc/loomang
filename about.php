@@ -18,14 +18,14 @@
 
 <!-- About Start -->
 <div class="container-fluid bg-light overflow-hidden px-lg-0">
-    <div class="container about px-lg-0">
-        <div class="row g-0 mx-lg-0">
+    <div class="container about px-lg-0 py-4">
+        <div class="row g-0">
             <div class="col-lg-5 ps-lg-0 pt-5 about">
-                <div class="position-relative  ">
+                <div class="position-relative">
                     <img class="position-absolute img-fluid px-3" src="img/about.jpg" style="object-fit: cover;" alt="">
                 </div>
             </div>
-            <div class="col-lg-7 pt-3 about-text wow fadeIn" data-wow-delay="0.5s">
+            <div class="col-lg-7 pt-3 px-4 wow fadeIn" data-wow-delay="0.5s">
                 <div class=" pe-lg-0">
                     <div class="section-title text-center">
                         <h1 class="display-5 mb-4 ">About Us</h1>
